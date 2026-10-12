@@ -1,8 +1,11 @@
 Praktikum Machine Learning
+
 Judul
+
 Implementasi Machine Learning untuk Prediksi Biaya Asuransi Kesehatan Menggunakan Linear Regression dan Random Forest.
 
 Deskripsi
+
 Proyek ini merupakan praktikum Machine Learning untuk memprediksi biaya asuransi kesehatan berdasarkan karakteristik peserta menggunakan algoritma Linear Regression dan Random Forest Regressor.
 
 Teknologi
