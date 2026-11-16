@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+scikit-image
+Pillow
+jupyter
+
+# Optional: untuk dataset tertentu
+tensorflow
+librosa
